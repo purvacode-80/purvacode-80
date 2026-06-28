@@ -10,6 +10,18 @@
 
 *"Every repository is a mission. Every contribution expands the universe."*
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PurvaVerse-883cfa?style=for-the-badge)]([https://](https://purvaverse.vercel.app/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/purva-waykole-40485727a)
+
+[![GitHub](https://img.shields.io/badge/GitHub-purvacode--80-181717?style=for-the-badge\&logo=github)](https://github.com/purvacode-80)
+
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x)]([https://github.com/purvacode-80](https://x.com/Purva_Way37))
+
+</div>
+
 </div>
 
 ---
@@ -236,40 +248,6 @@ TensorFlow
 
 ---
 
-# 🛰 Open Source Journey
-
-```
-2025
-
-🌍 First Open Source Contributions
-
-        │
-
-        ▼
-
-🚀 GSSoC
-
-        │
-
-        ▼
-
-⭐ Pull Requests
-
-        │
-
-        ▼
-
-🌌 Building Larger Projects
-
-        │
-
-        ▼
-
-🪐 Future OSS Maintainer
-```
-
----
-
 # 🌠 Current Mission Log
 
 * 🚀 Building PurvaVerse
@@ -277,20 +255,6 @@ TensorFlow
 * 🧠 Exploring LLMs
 * 🌌 Building immersive web experiences with React Three Fiber
 * 💙 Contributing to Open Source
-
----
-
-# 📬 Connect with Mission Control
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PurvaVerse-Coming%20Soon-00E5FF?style=for-the-badge)](https://)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/purva-waykole-40485727a)
-
-[![GitHub](https://img.shields.io/badge/GitHub-purvacode--80-181717?style=for-the-badge\&logo=github)](https://github.com/purvacode-80)
-
-</div>
 
 ---
 
