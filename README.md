@@ -176,23 +176,15 @@ TensorFlow
 
 ---
 
-## 🌆 CivicSphere
-
-Mission:
-
-AI-powered Smart City platform for intelligent civic issue reporting.
-
----
-
 # 🏆 Mission Achievements
 
 🏅 Best Performer of the Month
 
+🌟 CGPA: **9.12**
+
 🎓 Diploma with **94.12%**
 
-🚀 GSSoC Contributor
-
-🏆 Hackspiration Top 30
+🚀 GSSoC'26 Contributor
 
 📄 Research Contributor
 
